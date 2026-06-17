@@ -1,0 +1,204 @@
+# 9 Marketing Trends I’m Seeing Firsthand in 2026 (With Data)
+
+- **Source URL:** https://ahrefs.com/blog/marketing-trends/
+- **Domain:** ahrefs.com
+
+--- 
+
+[Ryan Law](https://ahrefs.com/blog/author/ryan-law/) Ryan Law is the Director of Content Marketing at Ahrefs. Ryan has 14 years experience as a writer, content strategist, team lead, marketing director, VP, CMO, and agency founder. He's helped dozens of companies improve their content marketing and SEO, including Google, Zapier, GoDaddy, Clearbit, and Algolia. He's also a novelist and the creator of two content marketing courses. Get the week's best marketing content Contents
+
+I’ve spent 14 years in marketing. I’ve worked with everyone from teeny-tiny mom-and-pop shops to huge enterprise companies, and in that time I’ve sat through enough “this changes everything” trends to be pretty hard to impress. But truthfully: I have never seen so much change in so short a time as I have in the past year.
+
+Even my own role has changed radically. As Director of Content Marketing at Ahrefs, I do a lot less writing than I used to, and a lot more building of systems that do the work for me. That might sound hyperbolic, but it isn’t, and it isn’t just me: as this article will show, the search data points to the same transformation happening across marketing as a whole, and across plenty of specific roles within it.
+
+So here are the marketing trends I’ve seen firsthand, and that our data confirms, that are changing how marketing roles actually function in 2026.
+
+Contents
+
+## 1. Generative Engine Optimization (GEO)
+
+ChatGPT, Claude, Gemini, AI Overviews, AI Mode. In the space of two years, marketers picked up an entirely new discovery channel, and they are scrambling to show up in it. You can watch that scramble happen in the search data.
+
+Search demand for “generative engine optimization” went from basically nothing to 12,000 searches a month, up 161% year over year. “AI visibility” is up 258%, “AI search optimization” up 152%, “AI overview optimization” up 625%. These aren’t fringe terms anymore. They’re companies falling over themselves to get cited and mentioned in AI answers, because that is where a growing share of their audience now starts.
+
+Monthly US search volume for “generative engine optimization,” climbing from near-zero.
+
+Is GEO its own discipline or just a subset of SEO? [The jury is still out](https://ahrefs.com/blog/seo-vs-geo/), and my money is on subset. But that argument is for practitioners. What’s not up for debate is that this is a channel the C-suite, investors, and your own team all need to understand and optimize for, because the data says it arrived and it arrived fast.
+
+If you want to get started with generative engine optimization, read our [full guide to GEO](https://ahrefs.com/blog/geo-generative-engine-optimization/). But in a nutshell, our advice comes down to three things:
+
+- Build mentions of your brand in relevant context throughout the internet.
+- Track your AI visibility, in terms of mentions and citations across a large index of content.
+- Create content that fills entity gaps, both on your own website and on other people’s.
+Further reading
+
+- [Generative Engine Optimization: Growth Strategies and Metrics For the AI Era](https://ahrefs.com/blog/geo-generative-engine-optimization/)
+- [SEO vs. GEO: 5 Key Differences Despite the Similarities](https://ahrefs.com/blog/seo-vs-geo/)
+- [AI’s Impact on SEO: 13 Things That Changed, 4 Things That Stayed The Same](https://ahrefs.com/blog/ai-impact-on-seo/)
+
+## 2. Tracking AI mentions & citations (the new “rankings”)
+
+For years, online visibility meant one thing: keyword rankings. You tracked positions, watched organic traffic, and called it a day. Rankings still matter, but they are no longer the only thing worth tracking. The metrics that count in AI search are mentions and citations: how often your brand shows up in an AI answer, and whether the model points back to you as a source.
+
+Monthly US search volume for “AI visibility.”
+
+How a brand earns those mentions is different from how it earns rankings. It helps to understand how AI search engines actually work under the hood (we wrote a [full guide on exactly that](https://ahrefs.com/seo/how-ai-search-engines-work)), but it really comes down to three things:
+
+- How present you are in the data the model learned from.
+- How often you show up in the content it retrieves at answer time.
+- And just as importantly, the context you appear in.
+
+Get mentioned often, by the right sources, in the right context for a topic, and you become far more likely to be the brand an AI names when someone asks about it.
+
+We dug into exactly which signals matter most. In our [study of 75,000 brands](https://ahrefs.com/blog/ai-brand-visibility-correlations/), branded web mentions across the web showed the strongest correlation (0.664) with AI Overview visibility, stronger than backlinks or domain rating. Get talked about in the right places, and AI is far more likely to talk about you.
+
+If you want proof this is happening, look at the tools: an entire category of them sprang up just to measure it. Terms like “AI brand mentions,” “AI citation tracking,” and “AI mention tracking” didn’t exist 18 months ago and now pull steady monthly search demand. [Ahrefs’ Brand Radar](https://ahrefs.com/brand-radar) is built for exactly this, letting you search a massive index of real prompts to see how often, and for which topics, any company gets mentioned across the major AI assistants. Rank tracking for the AI era, basically.
+
+Further reading
+
+- [How AI Search Engines Work](https://ahrefs.com/seo/how-ai-search-engines-work)
+- [The Complete AI Visibility Guide for SEOs, Marketers, and Site Owners](https://ahrefs.com/blog/ai-visibility/)
+- [How to Earn LLM Citations to Build Traffic & Authority](https://ahrefs.com/blog/llm-citations/)
+- [How to Monitor Brand Mentions in ChatGPT](https://ahrefs.com/blog/monitor-brand-mentions-chatgpt/)
+
+## 3. Agentic marketing
+
+Generative AI used to just talk to you. Now, for the first time, it can go and do things for you.
+
+Tool calling, agent harnesses, MCP, and a wave of related innovations mean a model can reach into your marketing stack and actually run parts of the job, even if you can’t write a line of code. That capability is why [agentic marketing](https://ahrefs.com/blog/agentic-marketing/) went from a piece of jargon to a line item in marketing budgets in barely a year.
+
+The search data backs it up. This is one of the fastest-rising clusters in the whole list. The parent term “agentic AI” now pulls 101,000 searches a month, “agentic AI tools” is up 309% year over year, and “AI agents for marketing” is up 145%.
+
+But the biggest growth comes from “agentic commerce,” up 464% year over year to 5,600 searches a month. That term points at the next step: agents that don’t just research and recommend, but actually complete purchases on websites for the person they work for. When the buyer is a bot, the rules of how you get discovered and chosen start to change.
+
+We have gone all in on agentic marketing at Ahrefs. In fact, I’m building this very article with [Agent A](https://ahrefs.com/agent-a), Ahrefs’ AI agent. Every chart and every number you’re reading was pulled by Agent A, and I’m essentially narrating this piece in my own voice for it to write up. That’s agentic marketing in practice, not theory. It’s a big trend, and it’s well worth paying attention to.
+
+Monthly US search volume for “agentic commerce.”
+
+Further reading
+
+- [Agentic AI vs. Generative AI: What’s the Difference, and Why Does It Matter?](https://ahrefs.com/blog/agentic-ai-vs-generative-ai/)
+- [Agent-To-Agent Marketing Was Just Born on Moltbook](https://ahrefs.com/blog/agent-to-agent-marketing-born-on-moltbook/)
+- [Agent A: the AI marketing agent from Ahrefs](https://ahrefs.com/agent-a)
+
+## 4. Vibe coding (& vibe marketing)
+
+Another knock-on effect of agentic AI: it has never been easier to build your own software. You don’t commission it, you describe it. We started down this road at Ahrefs using Lovable to vibe code a pile of tools for the marketing team, and now we use Agent A to do it.
+
+What have we built? Custom tools for generating SEO content, for keyword research and clustering, for internal linking, for spinning up social media content, and dozens and dozens of other applications. We can describe a marketing process in plain English and Agent A goes out and builds it. No engineering ticket, no sprint, no waiting.
+
+The data shows how fast this went mainstream. “[Vibe coding](https://ahrefs.com/blog/vibe-coding-examples/)” now pulls 84,000 searches a month, up from effectively nothing, and the chart traces a near-vertical climb through early 2025.
+
+“Vibe marketing” is the smaller, newer cousin following the same path. Marketing processes are more qualitative than code, but no less complicated, and as we’re learning at Ahrefs, plenty of them can be automated too. We wrote up what that looks like [after 200+ hours with an AI marketing assistant](https://ahrefs.com/blog/ai-marketing-assistant/).
+
+Monthly US search volume for “vibe coding,” showing the 2025 vertical climb.
+
+Further reading
+
+- [9 Vibe Coding Examples: AI Apps You Can Use Right Now to Grow Your Website](https://ahrefs.com/blog/vibe-coding-examples/)
+- [We Ran an AI Hackathon for Our Content Team. Here’s What We Built with Agent A](https://ahrefs.com/blog/agent-a-hackathon/)
+- [How I Use My AI Marketing Assistant After 200+ Hours](https://ahrefs.com/blog/ai-marketing-assistant/)
+
+## 5. Reddit marketing
+
+People have been preaching the importance of Reddit marketing for a decade. What actually changed in the last two years is that Reddit became one of the primary sources of the mentions and citations that [power AI search engines like ChatGPT](https://ahrefs.com/blog/how-to-rank-on-chatgpt/).
+
+The Ahrefs data on this is hard to ignore. The visibility of Reddit posts is through the roof: reddit.com’s organic Google traffic grew roughly 21x in five years, from around 58 million visits a month to over 1.2 billion. While plenty of sites got hit by recent Google algorithm updates, Reddit was one of the constant winners, picking up more and more visibility on the way. That makes Reddit marketing harder than ever to do well, and more important than ever to get right.
+
+Here’s how we approach it at Ahrefs. We co-run our own [subreddit](https://www.reddit.com/r/ahrefs/), our people moderate other popular subreddits, and our CMO Tim hosts a [regular AMA in r/bigseo](https://www.reddit.com/r/bigseo/comments/1mh9n4w/hi_bigseo_im_tim_soulo_from_ahrefs_its_been_10/) where we ask the community for product feedback. The throughline is that we engage sincerely and we don’t try to market through it, because overt marketing is the one thing that will get you absolutely crushed on Reddit.
+
+(And if you want to measure any of this, [Brand Radar](https://ahrefs.com/brand-radar) has a Reddit index you can use to track your visibility across Reddit threads over time.)
+
+reddit.com estimated organic Google traffic, ~21x growth since 2021 (Ahrefs Site Explorer).
+
+Further reading
+
+- [How to Rank on ChatGPT: What Actually Works (Based on Data)](https://ahrefs.com/blog/how-to-rank-on-chatgpt/)
+- [The 50 Most-Cited Websites in Google AI Overviews (June 2026)](https://ahrefs.com/blog/most-cited-domains-ai-overviews/)
+- [Reddit Keyword Research: 4 Methods to Find Keywords Your Competitors Miss](https://ahrefs.com/blog/reddit-keyword-research/)
+
+## 6. AI slop & the quality backlash
+
+As interest in agentic marketing, AI visibility, and everything around them has gone up, so has the prevalence of AI slop.
+
+Slop is what you get when a company decides to produce as much content as fast and as automatically as possible, with no regard for original insight, data, or personality. It just rehashes whatever sits in the model’s training data, publishes it, and calls it good enough. Search demand for “AI slop” backs up how fast this entered the conversation: 28,000 searches a month, up 115% year over year, from near-zero in 2023.
+
+Companies like making content with AI, but no-one likes reading or watch slop. We’ve seen companies hit with manual penalties from Google over it, because Google doesn’t want it, and readers don’t want it either. The issue isn’t that the content was made with AI, it’s that it was made carelessly.
+
+There are good ways to use AI in content, and we practice them on the Ahrefs blog (my [AI content process](https://ahrefs.com/blog/my-complete-ai-content-process-for-ahrefs/) is a good example of using AI as a tool, not a replacement). And the data is clear that careful AI use is not the problem.
+
+- AI-assisted content is already everywhere: we studied 900,000 pages and found that [74% of new webpages include AI-generated content](https://ahrefs.com/blog/what-percentage-of-new-content-is-ai-generated/).
+- It also doesn’t hurt you. Across 600,000 pages, we found that [AI-generated content does not hurt your Google rankings](https://ahrefs.com/blog/ai-generated-content-does-not-hurt-your-google-rankings/), and [86.5% of top-ranking pages](https://ahrefs.com/blog/ai-generated-content-does-not-hurt-your-google-rankings/) already contain some AI content.
+- In AI search it’s the same story: in our analysis of pages cited in AI Overviews, [87.8% were at least AI-assisted](https://ahrefs.com/blog/ai-overviews-cite-ai-generated-content-more-than-human-writing/), and the correlation between how much AI a page used and where it ranked was [0.017, effectively zero](https://ahrefs.com/blog/ai-overviews-cite-ai-generated-content-more-than-human-writing/).
+
+The takeaway isn’t “don’t use AI,” it’s “don’t publish slop.”
+
+Monthly US search volume for “AI slop.”
+
+Further reading
+
+- [74% of New Webpages Include AI Content (Study of 900k Pages)](https://ahrefs.com/blog/what-percentage-of-new-content-is-ai-generated/)
+- [AI-Generated Content Does Not Hurt Your Google Rankings (600,000 Pages Analyzed)](https://ahrefs.com/blog/ai-generated-content-does-not-hurt-your-google-rankings/)
+- [AI Content Creation: My Process for High-Quality, SEO-Friendly Articles](https://ahrefs.com/blog/ai-content-creation/)
+
+## 7. Zero-click search & the CTR squeeze
+
+As AI visibility rises, it’s harder than ever to actually earn a click and get a real person onto your website.Your content increasingly gets synthesized and regurgitated inside the answer itself, whether that’s an AI Overview, AI Mode, or a ChatGPT response.
+
+The data has been moving this way for a decade: per [SparkToro](https://sparktoro.com/blog/2024-zero-click-search-study-for-every-1000-us-google-searches-only-374-clicks-go-to-the-open-web-in-the-eu-its-360/), the share of Google searches ending without a click has climbed from 45% in 2016 to 68% in 2026, and AI Overviews have pressed the accelerator.
+
+Our own research first found AI Overviews cut click-through rates on the top organic result by [34.5%](https://ahrefs.com/blog/ai-overviews-reduce-clicks/), and when we re-ran the study a year later that gap had widened to [58%](https://ahrefs.com/blog/ai-overviews-reduce-clicks-update/). For every 100 clicks a top-ranking page used to earn, Google now keeps 58.
+
+Consumer demand hasn’t gone anywhere. People still want to research and buy. What’s changed is the job your content does. Increasingly it works by helping LLMs understand what your brand is about, which entities and topics you should be associated with, rather than by funneling people straight to your site through search. Visibility and traffic are no longer the same thing.
+
+One important caveat, so nobody overcorrects: AI traffic is growing and Google traffic is softening, but Google is still the primary traffic driver for the vast majority of websites, sending on the order of [40% of all traffic](https://ahrefs.com/blog/chatgpt-has-12-percent-of-googles-search-volume/). ChatGPT’s click-through rate is roughly [96% lower than Google’s](https://ahrefs.com/blog/chatgpt-has-12-percent-of-googles-search-volume/), and Google still sends about [190x more traffic](https://ahrefs.com/blog/chatgpt-has-12-percent-of-googles-search-volume/) to sites than ChatGPT does.
+
+Optimize for the AI era, but do not walk away from search.
+
+Share of Google searches ending without a click, 2016–2026 (SparkToro).
+
+Monthly US search volume for “google ai overviews.”
+
+Further reading
+
+- [Update: AI Overviews Reduce Clicks by 58%](https://ahrefs.com/blog/ai-overviews-reduce-clicks-update/)
+- [ChatGPT Has 12% of Google’s Search Volume but Google Sends 190x More Traffic to Websites](https://ahrefs.com/blog/chatgpt-has-12-percent-of-googles-search-volume/)
+- [Welcome to Zero-Click Search. Please Leave Your Traffic at the Door.](https://ahrefs.com/blog/zero-click-search/)
+
+## 8. AI layoffs & the shrinking marketing team
+
+There’s a parallel trend of seemingly AI-motivated layoffs across tech. The argument goes that AI lets individuals do more and lets companies run leaner, so headcount gets cut in favor of the tools. The search interest backs this up: “tech layoffs” pulls 20,000 searches a month, “ai layoffs” is up 17%, “ai job cuts” up 82%, and “ai taking jobs” up 15%.
+
+Whether AI is actually the cause is another question. Our CMO Tim has argued that he doesn’t buy the AI-layoffs narrative, that a lot of these cuts are companies re-evaluating after over-hiring and using AI as a convenient explanation. He’s [made this case publicly](https://www.linkedin.com/posts/timsoulo_i-see-big-corps-doing-layoffs-because-of-activity-7465088124977700865-FLCD): big corps are doing layoffs and blaming AI, when often it’s just belt-tightening with a tidier story attached. It’s worth holding both ideas at once: the layoffs are real, the stated reason may not always be.
+
+Either way, the downstream effect on how teams work is hard to dispute. Smaller, leaner teams. Senior people back doing hands-on work. Everyone expected to cover more ground. But when every team has access to the same AI, the tools stop being the advantage. The difference comes from the skill of the people using them, the ones who know which questions to ask, what good output looks like, and when the machine is confidently wrong.
+
+That’s why the rest of this list matters. GEO, agents, and vibe-building are the practical ways a smaller team covers the same ground with fewer people.
+
+Monthly US search volume for “tech layoffs.”
+
+Monthly US search volume for “ai layoffs.”
+
+Further reading
+
+- [How to Level-up From SEO Tactician to Search Visibility Leader](https://ahrefs.com/blog/seo-tactician-to-strategist/)
+- [SEO’s 5 Stages of Grief (And How to Adapt to AI SEO)](https://ahrefs.com/blog/seo-5-stages-of-grief/)
+- [Automated SEO: What It Is and How It Works in 2026](https://ahrefs.com/blog/automated-seo/)
+
+## 9. Content engineering
+
+Content engineering is still a nascent, emerging role, with the search data to match: “content engineering” sits at just 250 searches a month, growing a modest 8%. I’m including it anyway, because this entire article is an example of it.
+
+Right now, I’m narrating my ideas to Agent A. All the data and images for this article are generated by agentic AI. And increasingly, everything the Ahrefs content team does on the blog is augmented this way. We’re working at higher levels of abstraction, thinking in systems rather than getting into the weeds and doing every task by hand. That shift, from doing the work to designing the system that does the work, is what content engineering actually means.
+
+Not all content can or should be engineered. There’s still a place for personality, for personal brands, for genuine thought leadership. But the rote, boring parts of the job, the data analysis, the SEO mechanics, the formatting, can absolutely be automated with AI.
+
+I’d like to think this article is living proof of that, as is the wider Ahrefs blog. If you want the fuller picture, Louise wrote up [what content engineering actually is](https://ahrefs.com/blog/what-is-content-engineering/), and I’ve documented [how I do it with Claude Code](https://ahrefs.com/blog/how-i-do-content-engineering-with-claude-code/).
+
+Monthly US search volume for “content engineering.”
+
+Further reading
+
+- [What Is Content Engineering, and How Do You Do It?](https://ahrefs.com/blog/what-is-content-engineering/)
+- [How I Do Content Engineering with Claude Code](https://ahrefs.com/blog/how-i-do-content-engineering-with-claude-code/)
+- [We Ran an AI Hackathon for Our Content Team. Here’s What We Built with Agent A](https://ahrefs.com/blog/agent-a-hackathon/)
